@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFCB422A-ABAE-4280-9486-FAFFE3673D3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ViewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F49B148D-551D-46E5-91A8-CB5204631450</key>
+		<string>https://github.com/jeansung/CS121ViewTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ViewTest/ViewTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F49B148D-551D-46E5-91A8-CB5204631450</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jeansung/CS121ViewTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F49B148D-551D-46E5-91A8-CB5204631450</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F49B148D-551D-46E5-91A8-CB5204631450</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CS121ViewTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
