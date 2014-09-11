@@ -19,6 +19,7 @@
 		0F782BA819C1013E000A115E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F782B9019C1013E000A115E /* UIKit.framework */; };
 		0F782BB019C1013E000A115E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F782BAE19C1013E000A115E /* InfoPlist.strings */; };
 		0F782BB219C1013E000A115E /* ViewTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F782BB119C1013E000A115E /* ViewTestTests.m */; };
+		0F782BBD19C12CF1000A115E /* JSSimpleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F782BBC19C12CF1000A115E /* JSSimpleView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		0F782BAD19C1013E000A115E /* ViewTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ViewTestTests-Info.plist"; sourceTree = "<group>"; };
 		0F782BAF19C1013E000A115E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0F782BB119C1013E000A115E /* ViewTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewTestTests.m; sourceTree = "<group>"; };
+		0F782BBB19C12CF1000A115E /* JSSimpleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSSimpleView.h; sourceTree = "<group>"; };
+		0F782BBC19C12CF1000A115E /* JSSimpleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSSimpleView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 			children = (
 				0F782B9B19C1013E000A115E /* JSAppDelegate.h */,
 				0F782B9C19C1013E000A115E /* JSAppDelegate.m */,
+				0F782BBB19C12CF1000A115E /* JSSimpleView.h */,
+				0F782BBC19C12CF1000A115E /* JSSimpleView.m */,
 				0F782B9E19C1013E000A115E /* Images.xcassets */,
 				0F782B9319C1013E000A115E /* Supporting Files */,
 			);
@@ -241,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F782B9919C1013E000A115E /* main.m in Sources */,
+				0F782BBD19C12CF1000A115E /* JSSimpleView.m in Sources */,
 				0F782B9D19C1013E000A115E /* JSAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
